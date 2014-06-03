@@ -98,5 +98,3 @@ for all known brands
 5. Create new Pull Request
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Fivell/credit_card_validations/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
